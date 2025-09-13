@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+#nav-opay {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+}
+.opay1 {
+    height: 6vh;
+  
+}
+.mage {
+    width: 100%;
+    min-height: 90vh;
+    background-image: url("./home01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative;
+    position: absolute */
+}
+.wordngs {
+    /* top: 100px; */
+    margin-left: 70px;
+}
+.word1 {
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    top: 100px;
+}
+.word2{
+    color: #362c74;
+}
+.mg1 {
+    height: 60vh;
+    }
